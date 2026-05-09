@@ -1,4 +1,4 @@
-﻿# coursera_WD4E_respDesign
+﻿# Advanced Styling with Responsive Design
 
 Assignments and projects completed during the Coursera course.
 
